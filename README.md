@@ -8,7 +8,7 @@ Please see the models section of this repo
 
 ### Lineage
 
-![lineage created using dbt docs](https://postimg.cc/c6xNr4x7)
+![lineage created using dbt docs](https://i.postimg.cc/xjHjpcBZ/dbt-lineage.png)
 
 ## Insights
 
