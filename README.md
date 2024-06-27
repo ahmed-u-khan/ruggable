@@ -10,6 +10,8 @@ Please see the models section of this repo
 
 ![lineage created using dbt docs](https://i.postimg.cc/xjHjpcBZ/dbt-lineage.png)
 
+[Link to Lineage](https://i.postimg.cc/xjHjpcBZ/dbt-lineage.png)
+
 ## Insights
 
 ### BI Insights
