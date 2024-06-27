@@ -29,7 +29,7 @@ Link to tableau workbook: https://public.tableau.com/app/profile/ahmed.khan1711/
 
 - added pid column to all tables
 
-- not all variants have a pad_ids - about 5.5k variants do not have a pad_id
+- not all variants have a pad_id - about 5.5k variants do not have a pad_id
 
 - about 50k (out of 96703 i.e. 52%) pads' pid is not present in the parent table
 
